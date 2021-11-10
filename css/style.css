@@ -1,0 +1,522 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.banner1{
+    position: absolute;
+    width: 1024px;
+    height: 20px;
+    left: calc(50% - 1024px/2);
+    top: 0px;
+    background: #222222;
+
+}
+
+ .banner1>.Grandes-ofertas{
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: normal;
+    color: white;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    border: 10px;
+    position: absolute;
+    width: 138;
+    height: 12px;
+    left: calc(50% - 138px/2 - 353px);
+    top: 4px;
+
+ }
+
+.banner1>.idioma1{
+    line-height: 11.72px;
+    position: absolute;
+    width: 36px;
+    height: 12px;
+    left: calc(50% - 36px/2 + 388px);
+    top: 4px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+    color: #F3F3F3;
+}
+.banner1>.idioma2{
+    position: absolute;
+    width: 26px;
+    height: 12px;
+    left: calc(50% - 26px/2 + 439px);
+    top: 4px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+    color: #F3F3F3;
+}
+
+.frontcatdog{
+    position: absolute;
+    width: 1024px;
+    height: 62px;
+    left: calc(50% - 1024px/2);
+    top: 20px;
+    background: #F0A83E;
+}
+
+.frontcatdog>.front{
+    position: absolute;
+    width: 57.21px;
+    height: 23px;
+    left: calc(50% - 57.21px/2 - 425.4px);
+    top: 39px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+    color: #3C2313;
+}
+
+.frontcatdog>.catDog{
+    position: absolute;
+    width: 96.35px;
+    height: 23px;
+    left: calc(50% - 96.35px/2 - 356.82px);
+    top: 39px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.frontcatdog>.gato{
+    position: absolute;
+    width: 14.09px;
+    height: 9.91px;
+    left: calc(50% - 14.09px/2 - 464.16px);
+    top: 46.22px;
+    background: linear-gradient(0deg, #FFF5E3 0%, #F0A83E 100.01%);
+}
+
+.frontcatdog>.perro{
+    position: absolute;
+    width: 14.71px;
+    height: 13.17px;
+    left: calc(50% - 14.71px/2 - 314.86px);
+    top: 44.21px;
+    background: linear-gradient(0deg, #F0A83E 0%, #FFF5E3 100.01%);
+}
+
+.frontcatdog>.huella1{
+    position: absolute;
+    left: 55.51%;
+    right: 17.11%;
+    top: 14.11%;
+    bottom: 55.55%;
+    background: #FFFFFF;
+}
+
+.frontcatdog>.categorias{
+    position: absolute;
+    width: 64px;
+    height: 14px;
+    left: calc(50% - 64px/2 + 177px);
+    top: 44px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+.frontcatdog>.huella2{
+    position: absolute;
+    left: 55.51%;
+    right: 17.11%;
+    top: 14.11%;
+    bottom: 55.55%;
+    background: #FFFFFF;
+}
+
+.frontcatdog>.pets{
+    position: absolute;
+    width: 27px;
+    height: 14px;
+    left: calc(50% - 27px/2 + 258.5px);
+    top: 44px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+.frontcatdog>.huella3{
+    position: absolute;
+    left: 55.51%;
+    right: 17.11%;
+    top: 14.11%;
+    bottom: 55.55%;
+    background: #FFFFFF;
+}
+
+.frontcatdog>.nosotros{
+    position: absolute;
+    width: 54px;
+    height: 15px;
+    left: calc(50% - 54px/2 + 335px);
+    top: 43px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+.frontcatdog>.huella4{
+    position: absolute;
+    left: 55.51%;
+    right: 17.11%;
+    top: 14.11%;
+    bottom: 55.55%;
+    background: #FFFFFF;
+}
+
+.frontcatdog>.contactanos{
+    position: absolute;
+    width: 74px;
+    height: 14px;
+    left: calc(50% - 74px/2 + 435px);
+    top: 44px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+.header>.banner2{
+    position: absolute;
+    width: 1025px;
+    height: 409px;
+    left: calc(50% - 1025px/2 + 0.5px);
+    top: 81px;
+    background-size: cover;
+    /* background-image: url('./img/bowl-and-pet-daities-on-green-background 1.png'); */
+}
+
+.body>.banner2>.EsUnPlacer{
+    position: absolute;
+    width: 345px;
+    height: 35px;
+    left: 658px;
+    top: 246px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #3C2313;
+}
+
+.body>.banner2>.ComederosDescuento{
+    position: absolute;
+    width: 190px;
+    height: 19px;
+    left: 740px;
+    top: 303px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #3C2313;
+}
+
+.body>.banner2>.botonComederos{
+    position: absolute;
+    width: 141px;
+    height: 49px;
+    left: 767px;
+    top: 334px;
+
+    background: #F0A83E;
+    border-radius: 5px;
+}
+
+.body>.banner2>.botonComederos.COMEDEROS{
+    position: absolute;
+    width: 95px;
+    height: 19px;
+    left: 790px;
+    top: 349px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.main>.productosDestacados>.huella5{
+    position: absolute;
+    left: 55.51%;
+    right: 17.11%;
+    top: 14.11%;
+    bottom: 55.55%;
+    background: #F0A83E;
+}
+
+.main>.productosDestacados>h1{
+    position: absolute;
+    width: 406px;
+    height: 47px;
+    left: 309px;
+    top: 586px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 47px;
+    color: #3C2313;
+}
+
+.main>.productosDestacados>.Comederos{
+    position: absolute;
+    width: 78px;
+    height: 18px;
+    left: 380px;
+    top: 653px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #666666;
+}
+.main>.productosDestacados>.Accesorios{
+    position: absolute;
+    width: 75px;
+    height: 18px;
+    left: 489px;
+    top: 653px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #666666;
+}
+
+.main>.productosDestacados>.Comida{
+    position: absolute;
+    width: 52px;
+    height: 18px;
+    left: 595px;
+    top: 653px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #666666;
+}
+
+.main>.productosDestacados>.churrasquito{
+    position: absolute;
+    width: 265px;
+    height: 268.86px;
+    left: 95px;
+    top: 720px;
+}
+
+.main>.productosDestacados>.nombre-producto{
+    position: absolute;
+    width: 160.54px;
+    height: 19.64px;
+    left: 146.68px;
+    top: 988.86px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #3C2313;
+}
+
+.main>.productosDestacados>.precio{
+    position: absolute;
+    width: 38.49px;
+    height: 19.64px;
+    left: 208.26px;
+    top: 1006.92px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #F0A83E;
+}
+
+.main>.productosDestacados>.comedero{
+    position: absolute;
+    width: 262.03px;
+    height: 266.86px;
+    left: 381.97px;
+    top: 720px;
+}
+
+.main>.productosDestacados>.huesito{
+    position: absolute;
+    width: 265px;
+    height: 268.86px;
+    left: 664px;
+    top: 720px;
+}
+
+.main>.contactanos>h4{
+    position: absolute;
+    width: 143px;
+    height: 29px;
+    left: calc(50% - 143px/2 + 7.5px);
+    top: calc(50% - 29px/2 + 221px);
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 29px;
+    color: #3C2313;
+
+}
+
+.main>.contactanos>.cajaDatos>.datos>.datos1{
+    position: absolute;
+    width: 340px;
+    height: 40px;
+    left: calc(50% - 340px/2 + 1px);
+    top: calc(50% - 40px/2 + 275.5px);
+    background-co: #3C2313;
+    border-radius: 15px;
+}
+
+.main>.contactanos>.cajaDatos>.datos>.datos1>.nombre{
+    position: absolute;
+    width: 94.94px;
+    height: 11px;
+    left: calc(50% - 94.94px/2 - 107.42px);
+    top: calc(50% - 11px/2 + 276px);
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 9px;
+    line-height: 11px;
+    color: #FFFFFF;
+}
+
+.main>.contactanos>.cajaDatos>.datos>.datos2{
+    position: absolute;
+    width: 340px;
+    height: 40px;
+    left: calc(50% - 340px/2 + 1px);
+    top: calc(50% - 40px/2 + 325.5px);
+    background-color: #3C2313;
+    border-radius: 15px;
+}
+
+.main>.contactanos>.cajaDatos>.datos2>.correo{
+    position: absolute;
+    width: 147.55px;
+    height: 11px;
+    left: calc(50% - 147.55px/2 - 81.11px);
+    top: calc(50% - 11px/2 + 326px);
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 9px;
+    line-height: 11px;
+    color: #FFFFFF;
+}
+
+.main>.contactanos>.cajaDatos>.datos>.datos3{
+    position: absolute;
+    width: 340px;
+    height: 40px;
+    left: calc(50% - 340px/2 + 1px);
+    top: calc(50% - 40px/2 + 375.5px);
+    background-color: #3C2313;
+    border-radius: 15px;}
+
+.main>.contactanos>.cajaDatos>.datos>.datos3>.tel{
+    position: absolute;
+    width: 46.19px;
+    height: 11px;
+    left: calc(50% - 46.19px/2 - 131.79px);
+    top: calc(50% - 11px/2 + 376px);
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 9px;
+    line-height: 11px;
+    color: #FFFFFF;
+}
+
+.main>.contactanos>.botonResetear{
+    position: absolute;
+    width: 110px;
+    height: 34px;
+    left: calc(50% - 110px/2 - 52px);
+    top: calc(50% - 34px/2 + 453.5px);
+    background-color: #8A8787;
+    border-radius: 15px;
+}
+.main>.contactanos>.botonResetear>.resetear{
+    position: absolute;
+    width: 63px;
+    height: 19px;
+    left: calc(50% - 63px/2 - 53.5px);
+    top: calc(50% - 19px/2 + 454px);
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;  
+    color: #FFFFFF;
+}
+
+.main>.contactanos>.botonEnviar{
+    position: absolute;
+    width: 110px;
+    height: 34px;
+    left: calc(50% - 110px/2 + 64px);
+    top: calc(50% - 34px/2 + 453.5px);
+    background-color: #F0A83E;
+    border-radius: 15px;
+}
+.main>.contactanos>.botonResetear>.enviar{
+    position: absolute;
+    width: 44px;
+    height: 19px;
+    left: calc(50% - 44px/2 + 63px);
+    top: calc(50% - 19px/2 + 454px);
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
